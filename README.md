@@ -1,2 +1,2 @@
 # linux.networking
-Linux Networking Home Task 2
+Linux Networking. Home Task 2.
